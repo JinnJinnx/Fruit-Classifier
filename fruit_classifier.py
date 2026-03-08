@@ -1,10 +1,6 @@
 """
 Fruit Detector — CV Mini Project
 Author : Jin Somaang (67011125)
-Date   : 14 February 2026
-
-Upload a photo → detects all fruits → draws coloured boxes with 0-1 confidence.
-Also supports real-time webcam mode.
 
 Usage:
   python fruit_classifier.py <image_path>
